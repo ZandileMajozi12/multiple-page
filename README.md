@@ -8,3 +8,4 @@ $ add src folder with a styles.css file with basic css styling
 $ changed max-width of image in styles.css
 $ added a footer in photo.html
 $ changed max-width of croissant-photo in styles.css to 100%
+$ changed croissant photo in images
